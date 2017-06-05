@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: HoneyHope
+        psr4_prefix: HoneyHope
+        src_path: app
